@@ -107,7 +107,7 @@ java -version
 
 3. 校验是否能正常运行
 ```bash
-java jar ***.jar -u username -p passwd -d
+java -jar ***.jar -u username -p passwd -d
 ```
 _结果图后续替换_
 
